@@ -1,0 +1,18 @@
+Approach:
+
+Measuring accuracy:
+Edit distance between text files - eg. Levenshtein distance
+Using hocr - however problem was when words were split poorly
+Box files - run into same error
+Using CNN to splice image into individual words - very manually intensive to annotate and we don’t have money
+Using confidence intercal from tesseract itself + manually validate to make sure it is a good measure of accuracy
+
+Retraining Tesseract:
+	Use the pristine PDFs to generate the box file. The corresponding tif will be made with various augmentation techniques
+
+
+Using CNN for word segmentation and then using tesseract word by word
+
+
+
+
