@@ -16,5 +16,5 @@ requests==2.18.4
 six==1.11.0
 tempora==1.9
 tesserocr==2.2.2
-urllib3==1.22
+urllib3==1.26.5
 Wand==0.4.4
