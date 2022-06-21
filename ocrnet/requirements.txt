@@ -4,7 +4,7 @@ cheroot==5.10.0
 CherryPy==12.0.1
 idna==2.6
 jaraco.classes==1.4.3
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.44
 Pillow==4.3.0
 portend==2.2
